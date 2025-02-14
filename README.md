@@ -1,0 +1,1 @@
+Criando um projeto Django com Python, um sistema simples de cadastro de usuários e listagem.
